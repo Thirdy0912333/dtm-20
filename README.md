@@ -1,4 +1,4 @@
-# OldCord
+# DTM-20 by idealkooks
 
 A theme for Discord that brings back the 2020 UI without removing features
 
@@ -79,4 +79,8 @@ Paste the following in `Settings > Themes`:
 ```
 ----
 
-###### not affiliated with https://oldcord.com/ or DTM-16
+### not affiliated with https://oldcord.com/ or DTM-16
+REMIX BY MILBITS 
+All Rights Reserved Copyright Th Corporation
+TOS: https://idealkooks.weebly.com/terms-of-service.html
+PRIVACY POLICY: https://idealkooks.weebly.com/privacy-policy.html
