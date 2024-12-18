@@ -1,4 +1,4 @@
-# DTM-20 by idealkooks
+# Oldcord by idealkooks
 
 A theme for Discord that brings back the 2020 UI without removing features
 
